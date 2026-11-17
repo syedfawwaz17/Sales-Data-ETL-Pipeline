@@ -2,7 +2,7 @@
 
 # Environment file (contains passwords!)
 .env
-
+venv/
 # Python cache files
 __pycache__/
 *.py[cod]
